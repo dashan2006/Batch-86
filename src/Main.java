@@ -23,6 +23,8 @@ public class Main {
         //hello
         //hi batch 86
 
+        int age="28";
+        String name= "samidu";
     }
 
     }
